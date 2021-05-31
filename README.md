@@ -1,1 +1,1 @@
-# blogWorld
+# blogr-frontend-practice
